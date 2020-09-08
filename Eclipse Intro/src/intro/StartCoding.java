@@ -8,5 +8,6 @@ public class StartCoding
 		System.out.println("Hi, Dave!");
 		System.out.println("Hi, Larry!");
 		System.out.println("The weather is nice.");
+		System.out.println("It is quie nice out, isn't it?");
 	}
 }
