@@ -7,5 +7,6 @@ public class StartCoding
 		System.out.println("Hello World!");
 		System.out.println("Hi, Dave!");
 		System.out.println("Hi, Larry!");
+		System.out.println("The weather is nice.");
 	}
 }
